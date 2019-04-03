@@ -1,3 +1,4 @@
+All Scraping done without BeautifulSoup or any other scraping library
 ArticleCrawler - Crawls through a dataframe of article links
 
 Crawler- Teibu Crawler for Chinese comments to get dates of relevant comments
