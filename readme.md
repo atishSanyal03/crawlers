@@ -1,4 +1,4 @@
-<font size=7>__Crawler Descriptions__</font><br><br>
+## <font size=3>__Crawler Descriptions__</font><br><br>
 All Scraping done without BeautifulSoup or any other scraping library<br><br>
 <font size=3>__ArticleCrawler__</font> - Crawls through a dataframe of article links<br>
 
