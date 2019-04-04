@@ -1,5 +1,5 @@
-<font size=5>__Crawler Descriptions__</font><br>
-All Scraping done without BeautifulSoup or any other scraping library<br>
+<font size=7>__Crawler Descriptions__</font><br><br>
+All Scraping done without BeautifulSoup or any other scraping library<br><br>
 <font size=3>__ArticleCrawler__</font> - Crawls through a dataframe of article links<br>
 
 <font size=3>__Crawler__</font>- Teibu Crawler for Chinese comments to get dates of relevant comments<br>
